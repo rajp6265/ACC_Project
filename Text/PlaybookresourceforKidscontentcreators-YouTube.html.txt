@@ -1,0 +1,87 @@
+
+
+
+
+
+Playbook resource for Kids content creators - YouTube
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
+ga("create", "UA-78837143-1", "auto");
+ga("set", "referrer", document.referrer.split("?")[0]);
+ga("send", "pageview");
+
+
+
+
+
+download
+
+
+
+
+
+
+
+
+
+
+@media screen {
+.hero-1a7fbb1479bf535129412d6bc1ecc9e3d861c8f670117f8bad5b1331 {
+background-image: url(https://lh3.googleusercontent.com/25RXKIw1pG957F5lYS-BrUMCYN2w3AK-4hcQ85-Dii9k8RZaPF0cdWW9Aly_zMNRkUpxRlHaY5RsLdyrturTYu3JdFtAHzT2u5af=h479-l80-sg-rj-c0xffffff);
+}
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+.hero-1a7fbb1479bf535129412d6bc1ecc9e3d861c8f670117f8bad5b1331 {
+background-image: url(https://lh3.googleusercontent.com/25RXKIw1pG957F5lYS-BrUMCYN2w3AK-4hcQ85-Dii9k8RZaPF0cdWW9Aly_zMNRkUpxRlHaY5RsLdyrturTYu3JdFtAHzT2u5af=h400-l80-sg-rj-c0xffffff);
+}
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+.hero-1a7fbb1479bf535129412d6bc1ecc9e3d861c8f670117f8bad5b1331 {
+background-image: url(https://lh3.googleusercontent.com/25RXKIw1pG957F5lYS-BrUMCYN2w3AK-4hcQ85-Dii9k8RZaPF0cdWW9Aly_zMNRkUpxRlHaY5RsLdyrturTYu3JdFtAHzT2u5af=h280-l80-sg-rj-c0xffffff);
+}
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+.hero-1a7fbb1479bf535129412d6bc1ecc9e3d861c8f670117f8bad5b1331 {
+background-image: url(https://lh3.googleusercontent.com/25RXKIw1pG957F5lYS-BrUMCYN2w3AK-4hcQ85-Dii9k8RZaPF0cdWW9Aly_zMNRkUpxRlHaY5RsLdyrturTYu3JdFtAHzT2u5af=h200-l80-sg-rj-c0xffffff);
+}
+}
+
+
+
+
+
+This handy Field Guide outlines important tactics and strategies to consider when creating content for kids and families.
+
+download the field guide Best viewed in Adobe Acrobat or Reader
+
+
+
+
+
+
+Explore By Section
+

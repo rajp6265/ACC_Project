@@ -1,0 +1,1361 @@
+
+
+
+
+
+YouTube Official Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "YouTube Official Blog",
+"url": "https://blog.youtube/",
+"logo": "https://blog.youtube/static/blog_youtube/images/youtube_social_200x200.png"
+}
+
+
+
+
+
+
+
+
+
+
+:root {
+--primary-color: #FFAC73;
+--secondary-color: #EFDEFF;
+
+
+
+
+
+--hero-pattern-large-mobile: url(/static/blog_youtube/images/common/patterns-big-mobile.svg#hexagon-pattern-4-v-s);
+--hero-pattern-small-mobile: url(/static/blog_youtube/images/common/patterns-small-mobile.svg#hexagon-pattern-4-v-s);
+--hero-pattern-large: url(/static/blog_youtube/images/common/patterns-big.svg#hexagon-pattern-4-v);
+--hero-pattern-small: url(/static/blog_youtube/images/common/patterns-small.svg#hexagon-pattern-4-s);
+}
+
+
+
+
+
+
+
+
+
+
+{
+"isArchivedArticle" : "undefined",
+"authorName": "undefined",
+
+"locale": "en-us",
+
+
+"pageTemplate": "YouTube Homepage",
+"contentYTType": "YouTube Homepage"
+
+}" data-analytics-custom-options="
+{
+"contentCategory": "YouTube Official Blog",
+"publicationDate": "undefined",
+"topicTags": "undefined",
+"contentLength": "undefined"
+}">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C19.9,0,14,0,14,0S8.1,0,4.2,0.2C3.7,0.3,2.5,0.3,1.4,1.4C0.6,2.3,0.3,4.2,0.3,4.2S0,6.5,0,8.8v2.4c0,2.3,0.3,4.6,0.3,4.6
+s0.3,1.9,1.1,2.8c1.1,1.1,2.5,1.1,3.1,1.2C6.7,20,13.8,20,14,20c0,0,5.9,0,9.8-0.3c0.5-0.1,1.7-0.1,2.8-1.2c0.8-0.8,1.1-2.8,1.1-2.8
+s0.3-2.3,0.3-4.6V8.8C28,6.5,27.7,4.2,27.7,4.2L27.7,4.2z" />
+
+
+
+
+
+
+
+
+
+
+
+
+c0.428-0.427,1.121-0.427,1.548,0l20.113,20.112l41.113-41.113c0.429-0.427,1.12-0.427,1.548,0l6.703,6.704
+C78.477,17.894,78.477,18.586,78.049,19.015z" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c-21.1,0-37.6,17-37.6,38.1c0,21.1,16.5,38.1,37.6,38.1c13.7,0,21.5-5.5,26.5-10.5c4.1-4.1,6.8-10,7.8-18H118v-14.3h48.3
+c0.5,2.6,0.8,5.6,0.8,9c0,10.8-2.9,24.1-12.4,33.5c-9.2,9.6-21,14.7-36.6,14.7C89,162,64.7,138.5,64.7,109.6z" />
+
+C239.9,108.7,224.7,94.5,206,94.5z M206,148.7c-10.2,0-19.1-8.4-19.1-20.5c0-12.2,8.8-20.5,19.1-20.5c10.2,0,19.1,8.3,19.1,20.5
+C225.1,140.3,216.2,148.7,206,148.7z" />
+
+C313.9,108.7,298.7,94.5,280,94.5z M280,148.7c-10.2,0-19.1-8.4-19.1-20.5c0-12.2,8.8-20.5,19.1-20.5s19.1,8.3,19.1,20.5
+C299.1,140.3,290.2,148.7,280,148.7z" />
+
+c8.1,0,14.5-3.6,17.8-7.7h0.5v4.9c0,12.9-6.9,19.8-18,19.8c-9.1,0-14.7-6.5-17-12l-12.9,5.4c3.7,9,13.6,20,30,20
+c17.4,0,32.1-10.2,32.1-35.2V96.5H370.8z M353.8,148.7c-10.2,0-18.8-8.6-18.8-20.4c0-11.9,8.6-20.6,18.8-20.6
+c10.1,0,18,8.7,18,20.6C371.9,140.2,363.9,148.7,353.8,148.7z" />
+
+
+c-17.4,0-31.9,13.7-31.9,33.8c0,18.9,14.3,33.8,33.5,33.8c15.5,0,24.4-9.5,28.2-15l-11.5-7.7C463.5,145,458.3,148.7,450.7,148.7z
+M449.6,107.5c5.9,0,10.9,2.9,12.5,7.2l-30.2,12.5C431.5,114.2,442,107.5,449.6,107.5z" />
+
+
+
+
+
+
+S580.8,109.6,580.8,128.6z M569,128.6c0-14.3-10-22.7-20.5-22.7s-20.5,8.3-20.5,22.7s10,22.7,20.5,22.7S569,143,569,128.6z" />
+
+
+
+c-1.7-0.6-3.7-0.9-6.3-0.9c-8.1,0-16.3,6.8-16.3,18.3V160H590.3z" />
+
+
+
+c-3.8,5.8-11.4,10.8-21.4,10.8c-16,0-29.8-14.2-29.8-33.4s13.8-33.4,29.8-33.4c10,0,17.5,5,21.4,10.8h0.5v-8.7h11.3v59.5
+c0,22.8-15.6,32.9-32.1,32.9S636.3,178.9,633.1,171.4z M682.3,128.6c0-14.3-9.5-22.7-20-22.7s-20,8.6-20,22.7
+c0,14.1,9.5,22.7,20,22.7S682.3,143,682.3,128.6z" />
+
+
+
+
+
+
+
+
+
+
+
+
+c-0.116,0-0.231,0.058-0.293,0.159l-5.858,9.519l6.539,10.625l9.352-15.198C34.941,12.083,34.899,11.935,34.781,11.876z" />
+
+
+
+C5.033,7.381,5,7.481,5,7.605v20.012c0,0.341,0.249,0.744,0.554,0.896l8.616,4.308c0.12,0.06,0.234,0.088,0.337,0.088
+c0.29,0,0.494-0.225,0.494-0.602V12.124C15,12.039,14.953,11.962,14.877,11.924z" />
+
+
+c0.273-1.171,1.759-7.456,1.759-7.456s-0.449-0.899-0.449-2.227c0-2.086,1.209-3.643,2.714-3.643c1.28,0,1.898,0.961,1.898,2.113
+c0,1.287-0.819,3.211-1.242,4.994c-0.353,1.493,0.749,2.711,2.221,2.711c2.666,0,4.715-2.811,4.715-6.869
+c0-3.591-2.581-6.103-6.266-6.103c-4.268,0-6.773,3.201-6.773,6.51c0,1.289,0.497,2.672,1.116,3.423
+c0.123,0.149,0.141,0.279,0.104,0.43c-0.114,0.474-0.367,1.493-0.417,1.701c-0.065,0.275-0.217,0.333-0.502,0.201
+c-1.874-0.872-3.045-3.611-3.045-5.811c0-4.732,3.438-9.077,9.911-9.077c5.203,0,9.247,3.708,9.247,8.663
+c0,5.17-3.26,9.33-7.784,9.33c-1.52,0-2.949-0.79-3.438-1.722c0,0-0.752,2.864-0.934,3.566c-0.339,1.303-1.253,2.936-1.864,3.932
+c1.404,0.434,2.895,0.669,4.441,0.669c8.284,0,15-6.716,15-15C34.979,9.712,28.263,2.996,19.979,2.996z" />
+
+
+
+C22.166,26.805,23.163,27.01,23.983,27.01z M25.116,8.432h-2.959v4.056h2.959V8.432z M29.425,28.818
+c-0.549,0.305-1.248,0.537-1.912,0.627l0.493,1.46c-0.884,1.163-3.083,1.964-5.095,1.998c-0.068,0.001-0.135,0.002-0.203,0.002
+c0,0,0,0,0,0c-1.402,0-2.568-0.246-3.534-0.659c1.131,1.728,3.139,3.134,6.493,3.135c0,0,0,0,0,0c0.067,0,0.134-0.001,0.203-0.002
+c2.013-0.034,4.212-0.835,5.095-1.998L29.425,28.818z" />
+
+l-3.414,0c-0.053,0-0.1-0.034-0.114-0.085c-0.045-0.172-0.072-0.383-0.077-0.643v-6.315c0-0.065,0.053-0.117,0.117-0.117h4.578
+c0.065,0,0.117-0.053,0.117-0.117v-6.46c0-0.065-0.053-0.117-0.117-0.117h-4.559c-0.065,0-0.117-0.053-0.117-0.117V5.499
+c0-0.065-0.053-0.117-0.117-0.117H18.9h-1.246h-3.182c-0.572,0-1.231,0.424-1.328,1.21c-0.399,3.25-1.89,5.2-4.691,6.136
+L8.14,12.832c-0.048,0.016-0.08,0.061-0.08,0.111v5.547c0,0.065,0.053,0.117,0.117,0.117h2.176h0h0.685c0,0,0,5.178,0,6.832
+C11.038,30.893,14.815,33.466,21.799,33.466z M27.154,30.83c-0.877,0.843-2.677,1.47-4.402,1.499
+c-0.065,0.001-0.129,0.002-0.193,0.002h-0.001c-5.674,0-7.188-4.331-7.188-6.891v-7.864c0-0.065-0.053-0.117-0.117-0.117h-2.744
+c-0.065,0-0.117-0.053-0.117-0.117v-3.583c0-0.048,0.03-0.091,0.075-0.108c2.932-1.141,4.57-3.41,5.001-6.918
+c0.024-0.195,0.185-0.2,0.186-0.2h3.662c0.065,0,0.117,0.053,0.117,0.117v6.297c0,0.065,0.053,0.117,0.117,0.117h4.559
+c0.065,0,0.117,0.053,0.117,0.117v4.16c0,0.065-0.053,0.117-0.117,0.117h-4.578c-0.065,0-0.117,0.053-0.117,0.117l0,7.474
+c0.027,1.683,0.841,2.536,2.421,2.536c0.636,0,1.365-0.148,2.031-0.402c0.062-0.024,0.131,0.008,0.152,0.071l1.165,3.452
+C27.197,30.75,27.187,30.798,27.154,30.83z" />
+
+
+
+c0,1.213-0.325,2.542-0.564,3.328c0,0,1.167,2.035,4.356,1.41c0.677-1.504,1.045-3.451,1.045-5.159c0-4.596-2.343-7.27-6.639-7.27
+c-4.416,0-7,3.395-7,7.871c0,4.434,2.073,8.241,5.491,9.975c-1.437,2.875-3.266,5.408-5.174,7.316
+c-3.461-4.183-6.59-9.765-7.873-20.656H6.669c2.359,18.14,9.389,23.915,11.247,25.024c1.051,0.631,1.957,0.601,2.918,0.06
+c1.509-0.858,6.041-5.389,8.552-10.696c1.155-0.003,2.566-0.145,3.945-0.493v-3.574C32.43,20.072,31.553,20.171,30.776,20.171z" />
+
+
+C35,7.07,32.93,5,30.377,5z M29.297,26.001l-2.742,0.038c0,0-0.589,0.117-1.365-0.416c-1.025-0.704-1.993-2.534-2.746-2.295
+c-0.764,0.243-0.74,1.889-0.74,1.889s0.006,0.352-0.169,0.539c-0.189,0.204-0.56,0.245-0.56,0.245h-1.227
+c0,0-2.708,0.163-5.092-2.32C12.055,20.973,9.759,15.6,9.759,15.6s-0.132-0.352,0.011-0.523c0.162-0.191,0.602-0.204,0.602-0.204
+l2.934-0.019c0,0,0.276,0.046,0.474,0.191c0.163,0.12,0.254,0.344,0.254,0.344s0.474,1.199,1.102,2.284
+c1.226,2.118,1.796,2.581,2.212,2.354c0.606-0.331,0.425-2.994,0.425-2.994s0.011-0.966-0.305-1.397
+c-0.245-0.333-0.707-0.431-0.911-0.458c-0.165-0.022,0.106-0.405,0.457-0.577c0.528-0.259,1.46-0.273,2.562-0.262
+c0.858,0.009,1.105,0.062,1.441,0.143c1.011,0.244,0.668,1.187,0.668,3.449c0,0.724-0.131,1.743,0.392,2.081
+c0.225,0.145,0.774,0.022,2.149-2.313c0.651-1.106,1.14-2.407,1.14-2.407s0.106-0.232,0.272-0.331c0.17-0.102,0.399-0.07,0.399-0.07
+l3.087-0.019c0,0,0.928-0.111,1.078,0.308c0.158,0.44-0.347,1.466-1.608,3.147c-2.071,2.76-2.301,2.502-0.582,4.098
+c1.643,1.525,1.983,2.267,2.039,2.359C30.731,25.912,29.297,26.001,29.297,26.001z" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+News & Events
+Creator & Artist Stories
+Culture & Trends
+Inside YouTube
+
+
+
+"openSearchLabel": "Open Search",
+"closeSearchLabel": "Close Search",
+"template": "ytSearchBarResult"
+}">
+
+"language_path": "/",
+"domain": "youtube",
+"site_id": 4
+}"> Submit Search
+
+Search Input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inside YouTube
+
+Work Diaries: How a designer of YouTube Shorts also supports Women@YouTube
+
+Mar.28.2022
+
+
+
+
+
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Main.max-300x300.jpg",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Main.max-1000x1000.jpg",
+"threshold": "0.25"
+}">
+
+
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "hero cta click",
+"eventLabel": "Work Diaries: How a designer of YouTube Shorts also supports Women@YouTube - Read More - https://blog.youtube/inside-youtube/work-diaries-how-designer-youtube-shorts-also-supports-womenyoutube/",
+"componentType": "hero"
+}"> Read More
+
+
+
+
+
+
+Featured
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Answering your health questions in Brazil, India, and Japan - https://blog.youtube/news-and-events/answering-your-health-questions-brazil-india-and-japan/",
+"componentType": "featured article",
+"componentPosition": "left"
+}">
+
+yt-aspect-ratio yt-aspect-ratio__feature
+image-wrapper--extra-width image-wrapper--left
+
+yt-aspect-ratio__feature-vertical
+
+" style="--placeholder--size: 75% ">
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Info_Panel_Screens_Transparent.max-300x300.png",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Info_Panel_Screens_Transparent.max-800x800.png",
+"threshold": "0.25"
+}">
+
+
+News & Events
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Answering your health questions in Brazil, India, and Japan - https://blog.youtube/news-and-events/answering-your-health-questions-brazil-india-and-japan/",
+"componentType": "featured article",
+"componentPosition": "left"
+}"> Answering your health questions in Brazil, India, and Japan Mar.24.2022
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Creator Voices: Lyna - https://blog.youtube/creator-and-artist-stories/creator-voices-lyna/",
+"componentType": "featured article",
+"componentPosition": "right"
+}">
+
+yt-aspect-ratio yt-aspect-ratio__feature
+image-wrapper--extra-width
+yt-aspect-ratio__feature-vertical
+
+
+" style="--placeholder--size: 56% ">
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_4859.max-300x300.jpg",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_4859.max-300x300.jpg",
+"threshold": "0.25"
+}">
+
+
+Creator & Artist Stories
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Creator Voices: Lyna - https://blog.youtube/creator-and-artist-stories/creator-voices-lyna/",
+"componentType": "featured article",
+"componentPosition": "right"
+}"> Creator Voices: Lyna Mar.24.2022
+
+
+
+
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured sticky article click",
+"eventLabel": "How 5 women are using their channels to empower and inspire - https://blog.youtube/creator-and-artist-stories/how-5-women-are-using-their-channels-to-empower-and-inspire/",
+"componentType": "featured article",
+"componentPosition": "left"
+}">
+
+yt-aspect-ratio yt-aspect-ratio__feature
+image-wrapper--full-width image-wrapper--left js-yt-ga-sticky-featured
+
+
+yt-aspect-ratio__feature__full
+" style="--placeholder--size: 75% ">
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Women_APAC_creators.max-300x300.png",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Women_APAC_creators.max-300x300.png",
+"threshold": "0.25"
+}">
+
+
+Creator & Artist Stories
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured sticky article click",
+"eventLabel": "How 5 women are using their channels to empower and inspire - https://blog.youtube/creator-and-artist-stories/how-5-women-are-using-their-channels-to-empower-and-inspire/",
+"componentType": "featured article",
+"componentPosition": "left"
+}"> How 5 women are using their channels to empower and inspire Mar.24.2022
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Stream full seasons of TV for free on YouTube - https://blog.youtube/news-and-events/stream-full-seasons-tv-free-youtube/",
+"componentType": "featured article",
+"componentPosition": "right"
+}">
+
+yt-aspect-ratio yt-aspect-ratio__feature
+
+
+
+
+" style="--placeholder--size: 60% ">
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Storefront_AVOD_shelves.max-300x300.png",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Storefront_AVOD_shelves.max-800x800.png",
+"threshold": "0.25"
+}">
+
+
+News & Events
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Stream full seasons of TV for free on YouTube - https://blog.youtube/news-and-events/stream-full-seasons-tv-free-youtube/",
+"componentType": "featured article",
+"componentPosition": "right"
+}"> Stream full seasons of TV for free on YouTube Mar.23.2022
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "YouTube Learning at 10 - https://blog.youtube/creator-and-artist-stories/youtube-learning-10/",
+"componentType": "featured article",
+"componentPosition": "right"
+}">
+
+yt-aspect-ratio yt-aspect-ratio__feature
+
+
+
+
+" style="--placeholder--size: 56% ">
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LearningHub_evergreen.max-300x300.png",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LearningHub_evergreen.max-800x800.png",
+"threshold": "0.25"
+}">
+
+
+Creator & Artist Stories
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "YouTube Learning at 10 - https://blog.youtube/creator-and-artist-stories/youtube-learning-10/",
+"componentType": "featured article",
+"componentPosition": "right"
+}"> YouTube Learning at 10 Mar.17.2022
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Susan's 5 questions for Kanwal Ahmed - https://blog.youtube/creator-and-artist-stories/susans-5-questions-kanwal-ahmed/",
+"componentType": "featured article",
+"componentPosition": "right"
+}">
+
+yt-aspect-ratio yt-aspect-ratio__feature
+
+
+
+
+" style="--placeholder--size: 56% ">
+
+"mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kanwal_head_shot.max-300x300.jpg",
+"desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kanwal_head_shot.max-800x800.jpg",
+"threshold": "0.25"
+}">
+
+
+Creator & Artist Stories
+
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "featured article click",
+"eventLabel": "Susan's 5 questions for Kanwal Ahmed - https://blog.youtube/creator-and-artist-stories/susans-5-questions-kanwal-ahmed/",
+"componentType": "featured article",
+"componentPosition": "right"
+}"> Susan's 5 questions for Kanwal Ahmed Mar.08.2022
+
+
+
+
+
+
+" style="--background: 239,222,255" data-component="yt-video-stories">
+
+Stories
+
+
+
+
+
+
+
+
+yt-article-video__carrousel " href="#" target="_blank">
+
+#YouTubeBlack Voices | Introducing the Creator Class of 2022
+
+
+Play button
+Play button icon
+
+
+
+
+
+
+Play button
+Play button icon
+
+
+
+
+
+#YouTubeBlack Voices | Introducing the Creator Class of 2022
+
+
+
+
+
+
+
+yt-article-video__carrousel " href="#" target="_blank">
+
+Our 2022 Priorities
+
+
+Play button
+Play button icon
+
+
+
+
+
+
+Play button
+Play button icon
+
+
+
+
+
+Our 2022 Priorities
+
+
+
+
+
+
+
+yt-article-video__carrousel " href="#" target="_blank">
+
+APAHM Artist Profile | Eunhae Yoo
+
+
+Play button
+Play button icon
+
+
+
+
+
+
+Play button
+Play button icon
+
+
+
+
+
+APAHM Artist Profile | Eunhae Yoo
+
+
+
+
+
+
+
+yt-article-video__carrousel " href="#" target="_blank">
+
+WELCOME to YouTube's first ever #BeautyFest TRAILER Pharrell, Selena, Addison, Hyram, Gwyneth & more
+
+
+Play button
+Play button icon
+
+
+
+
+
+
+Play button
+Play button icon
+
+
+
+
+
+WELCOME to YouTube's first ever #BeautyFest TRAILER Pharrell, Selena, Addison, Hyram, Gwyneth & more
+
+
+
+
+
+
+
+yt-article-video__carrousel " href="#" target="_blank">
+
+Global Citizen VAX Live - Extended Show on YouTube (Official Trailer)
+
+
+Play button
+Play button icon
+
+
+
+
+
+
+Play button
+Play button icon
+
+
+
+
+
+Global Citizen VAX Live - Extended Show on YouTube (Official Trailer)
+
+yt-block-video-stories__button-left
+button-radial
+button-radial--previous" aria-label="previous story" aria-hidden="true">
+
+
+yt-block-video-stories__button-right
+button-radial
+button-radial--next" aria-label="next story" aria-hidden="false">
+
+
+1 5
+
+
+
+
+"tags": "",
+"domain": "youtube",
+"site_id": 4,
+"page_id": "39322",
+"category": "",
+"paginate": 6,
+"author_ids": "",
+"date_start": "",
+"date_stop": "",
+"template": "ytLatestArticleItem"
+}">
+
+All the Latest
+
+Load More Loading...
+
+
+
+
+
+
+"handle": "youtube",
+"template": "ytTwitterFeed"
+}" style="--primary-color: #0a0a0a;--pattern: url(/static/blog_youtube/images/common/quote.svg#triangle-scribble);">
+Across YouTube
+
+
+
+Want more YouTube updates?
+{
+"event": "trackEvent",
+"eventCategory": "module interaction",
+"eventAction": "social media cta click",
+"componentType": "social media"
+}"> Visit Twitter
+
+
+yt-twitter-posts__button-left
+button-radial
+button-radial--hidden
+button-radial--previous" aria-label="previous tweets list" aria-hidden="true">
+
+
+yt-twitter-posts__button-right
+button-radial
+button-radial--next" aria-label="next tweets lists" aria-hidden="true">
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore the latest company news, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights on the YouTube Official Blog.
+
+
+
+
+Our Channels
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+YouTube
+YouTube Creators
+Creator Insider
+TeamYouTube [Help]
+Susan Wojcicki
+
+
+
+
+
+Twitter
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+YouTube
+YouTube Creators
+TeamYouTube
+YouTube Gaming
+YouTube TV
+YouTube Music
+YouTubeInsider
+
+
+
+
+
+
+
+
+Connect
+
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "progress",
+"eventAction": "footer - social share click",
+"eventLabel": "social - https://www.instagram.com/youtube/",
+"componentType": "footer"
+}">
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "progress",
+"eventAction": "footer - social share click",
+"eventLabel": "social - https://www.facebook.com/youtube",
+"componentType": "footer"
+}">
+
+
+
+
+
+
+
+
+
+
+
+
+About YouTube
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+About
+Press
+Jobs
+How YouTube Works
+YouTube Culture & Trends
+Community Forum
+
+
+
+
+
+YouTube Products
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+YouTube Go
+YouTube Kids
+YouTube Music
+YouTube Originals
+YouTube Premium
+YouTube Studio
+YouTube TV
+
+
+
+
+
+For Business
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+Advertising
+Developers
+
+
+
+
+
+For Creators
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+Artists
+Creators
+Creator Academy
+Creating for Kids
+Creators Research
+Creators Services Directory
+YouTube NextUp
+YouTube Space
+YouTube VR
+
+
+
+
+
+Our Commitments
+
+
+yt-accordion__icon--open">
+Open
+Open Accordion
+
+
+
+yt-accordion__icon--close">
+Close
+close Accordion
+
+
+
+
+
+
+Creators for Change
+CSAI Match
+Social Impact
+
+
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "footer",
+"eventAction": "footer logo click",
+"eventLabel": "logo - https://www.youtube.com/",
+"componentType": "footer"
+}">
+
+Logo
+YouTube Logo
+
+
+
+
+
+{
+"event": "trackEvent",
+"eventCategory": "footer",
+"eventAction": "footer policy link click",
+"eventLabel": "Policy & Safety - https://www.youtube.com/about/policies/#community-guidelines",
+"componentType": "footer"
+}"> Policy & Safety
+
+{
+"event": "trackEvent",
+"eventCategory": "footer",
+"eventAction": "footer policy link click",
+"eventLabel": "Copyright - https://www.youtube.com/about/copyright/#support-and-troubleshooting",
+"componentType": "footer"
+}"> Copyright
+
+{
+"event": "trackEvent",
+"eventCategory": "footer",
+"eventAction": "footer policy link click",
+"eventLabel": "Brand Guidelines - https://www.youtube.com/about/brand-resources/#logos-icons-colors",
+"componentType": "footer"
+}"> Brand Guidelines
+
+{
+"event": "trackEvent",
+"eventCategory": "footer",
+"eventAction": "footer policy link click",
+"eventLabel": "Privacy - https://policies.google.com/privacy",
+"componentType": "footer"
+}"> Privacy
+
+{
+"event": "trackEvent",
+"eventCategory": "footer",
+"eventAction": "footer policy link click",
+"eventLabel": "Terms - https://www.youtube.com/t/terms",
+"componentType": "footer"
+}"> Terms
+
+
+
+
+

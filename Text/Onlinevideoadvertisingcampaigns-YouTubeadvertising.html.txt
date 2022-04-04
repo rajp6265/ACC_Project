@@ -1,0 +1,133 @@
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBGKMS');
+dataLayer.push({'siteVersion': 'new'});
+
+
+
+
+
+Online video advertising campaigns - YouTube advertising
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'descendingLogo': true,
+'persistentCtas': ['primary', 'secondary'],
+'sticky': false
+}">
+
+Jump to content
+
+
+Why YouTube
+
+How it works
+
+
+
+
+Overview
+How it works
+
+
+
+Channel creation
+Start a channel
+
+
+
+Ad creation
+Create a video ad
+
+
+
+Campaign setup
+Set up a campaign Find your audience Decide on a budget
+
+
+
+Measurement
+Measure your results
+
+
+
+
+News and inspiration
+
+Resources
+
+
+
+
+Overview
+Resources
+
+
+
+Creative
+Creative resources
+
+
+
+Measurement
+Measurement tools
+
+
+
+Insights
+Best practices Success stories
+
+
+
+
+FAQs
+
+
+
+
+
+
+
+
+1-877-763-9810 Start now
+
+
+
+
+
+
+
+Grow your business with YouTube ads

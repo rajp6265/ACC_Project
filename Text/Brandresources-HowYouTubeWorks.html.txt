@@ -1,0 +1,59 @@
+
+
+
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56HCXDK');
+
+
+
+
+
+Brand resources - How YouTube Works
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+Our commitments
+
+Managing harmful content How does YouTube manage harmful content?
+Standing up to hate How does YouTube protect the community from hate and harassment?
+Fighting misinformation How does YouTube combat misinformation?
+Curbing extremist content How does YouTube prevent radicalization?
+Supporting political integrity How does YouTube support civic engagement and election integrity?
+Preventing bias What does YouTube do to prevent bias?
+Fostering child safety How does YouTube help keep kids protected on the platform?
+Protecting user data How does YouTube maintain user privacy?
+Safeguarding copyright How does YouTube protect copyrighted content?
+Sharing revenue How does YouTube make money?
+

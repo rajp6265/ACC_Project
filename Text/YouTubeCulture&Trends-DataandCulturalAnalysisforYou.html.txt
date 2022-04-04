@@ -1,0 +1,162 @@
+
+
+
+
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-150549451-1');
+
+
+
+
+YouTube Culture & Trends - Data and Cultural Analysis for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe src="//www.googletagmanager.com/ns.html?id=UA-150549451-1" height="0" width="0" style="display:none;visibility:hidden">
+
+
+
+
+
+
+
+
+" href="/trends/discover/"> Discover
+
+
+" href="/trends/records/"> Records
+
+
+lb-nav__item--as-subnav-labels ytt-nav__item--ignore" tabindex="0"> More
+
+
+
+Contact In the News About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" href="/trends/discover/"> Discover
+" href="/trends/records/"> Records
+" lb-mobile-nav__item--as-subnav-labels tabindex="0"> More
+
+" href="/trends/contact/" tabindex="-1"> Contact
+" href="/trends/news/" tabindex="-1"> In the News
+" href="/trends/about/" tabindex="-1"> About
+
+
+
+
+
+
+
+
+
+List
+A Journey Through One Trillion Views of Minecraft on YouTube
+??Exploring the data behind a mind-boggling milestone for gaming creators on YouTube.
+
+
+
+
+
+
+
+
+
+@media screen {
+.p-b368f {
+background-image: url(https://lh3.googleusercontent.com/lGgcSbEaxnrPhAFWACSLnbKNFv4FijFgIhi-eoHpBkmhUeyYUVSkMj-_6OueamwTvRVFduGinf5ZvUe8NqB6fmFKH5s1ulCKkZYwRBiVZHb5M3O5iKI=w960-h318-l80-sg-rj-c0xffffff);
+}
+}
+@media screen and (min-resolution: 192dpi) {
+.p-b368f {
+background-image: url(https://lh3.googleusercontent.com/lGgcSbEaxnrPhAFWACSLnbKNFv4FijFgIhi-eoHpBkmhUeyYUVSkMj-_6OueamwTvRVFduGinf5ZvUe8NqB6fmFKH5s1ulCKkZYwRBiVZHb5M3O5iKI=w1920-h636-l80-sg-rj-c0xffffff);
+}
+}
+@media screen and (min-width: 600px) {
+.p-b368f {
+background-image: url(https://lh3.googleusercontent.com/lGgcSbEaxnrPhAFWACSLnbKNFv4FijFgIhi-eoHpBkmhUeyYUVSkMj-_6OueamwTvRVFduGinf5ZvUe8NqB6fmFKH5s1ulCKkZYwRBiVZHb5M3O5iKI=w1080-h358-l80-sg-rj-c0xffffff);
+}
+}
+@media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+.p-b368f {
+background-image: url(https://lh3.googleusercontent.com/lGgcSbEaxnrPhAFWACSLnbKNFv4FijFgIhi-eoHpBkmhUeyYUVSkMj-_6OueamwTvRVFduGinf5ZvUe8NqB6fmFKH5s1ulCKkZYwRBiVZHb5M3O5iKI=w2160-h716-l80-sg-rj-c0xffffff);
+}
+}
+@media screen and (min-width: 768px) {
+.p-b368f {
+background-image: url(https://lh3.googleusercontent.com/lGgcSbEaxnrPhAFWACSLnbKNFv4FijFgIhi-eoHpBkmhUeyYUVSkMj-_6OueamwTvRVFduGinf5ZvUe8NqB6fmFKH5s1ulCKkZYwRBiVZHb5M3O5iKI=w1920-h638-l80-sg-rj-c0xffffff);
+}
+}
+@media screen and (min-width: 768px) and (min-resolution: 192dpi) {
+.p-b368f {
+background-image: url(https://lh3.googleusercontent.com/lGgcSbEaxnrPhAFWACSLnbKNFv4FijFgIhi-eoHpBkmhUeyYUVSkMj-_6OueamwTvRVFduGinf5ZvUe8NqB6fmFKH5s1ulCKkZYwRBiVZHb5M3O5iKI=w3840-h1276-l80-sg-rj-c0xffffff);
+}
+}
+
+
+
+
+
+Featured
+
+
+ytt-card-0
+ytt-card--stories"> Listicle
+
+
+YouTube Top 10
+
+
+
+
+
+
+ytt-card-1
+ytt-card--claim

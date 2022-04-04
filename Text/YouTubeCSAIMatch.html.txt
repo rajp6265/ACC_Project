@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+YouTube CSAI Match
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hero--379e2fadc223aa0c2545c34fa7f43e178eeeec60ec4fa66b6ed59a1b {
+background-image: url(https://lh3.googleusercontent.com/mGYMvPk-pUG0AnL1yi8H6lFp8KkZOFgGwTSK8BiK_J3WnG2XYYd-oCZKT4gDK5rDfb7ezCpVvJW21c9HB7g7Hugx0CdVW4d41aaMMw=s0);
+}
+
+@media only screen and (min-width: 768px) {
+.hero--379e2fadc223aa0c2545c34fa7f43e178eeeec60ec4fa66b6ed59a1b {
+background-image: url(https://lh3.googleusercontent.com/Nc8nej3TEY8og-DFJhupyWcNaYrJ5VXM0EyEjckzff67TVI91txMnR91XzUxf8WI_UYqPoIUi8DsZxrDF4dLn_uGFUp7zQzEhowe6A4=s0);
+}
+}

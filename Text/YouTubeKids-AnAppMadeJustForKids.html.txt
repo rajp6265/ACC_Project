@@ -1,0 +1,272 @@
+
+
+
+
+
+
+YouTube Kids - An App Made Just For Kids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WBWB7Z');
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safer Experience
+
+Parent Resources
+
+Family-Friendly Videos
+
+Fun on Every Screen
+
+
+
+Download Download
+
+Watch Now
+
+
+
+
+
+
+
+
+
+
+
+Watch on Web
+
+
+
+
+
+
+
+
+
+Safer Experience Parent Resources Family-Friendly Videos Fun on Every Screen
+
+Download Download
+
+
+
+
+
+
+
+
+[[details]]
+[[cta_label]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"src@1x": "https://lh3.googleusercontent.com/Kkf-3R0WnxgEjbtT43LLEnjh7Us2uiWy4iZytcfUoHIRDq8b-Hj81WUrVc7eTqbPDoIeQANycZpcDgue_q6xSTO5w-NzMirIZ60nLw=v1-s1150",
+"src@2x": "https://lh3.googleusercontent.com/Kkf-3R0WnxgEjbtT43LLEnjh7Us2uiWy4iZytcfUoHIRDq8b-Hj81WUrVc7eTqbPDoIeQANycZpcDgue_q6xSTO5w-NzMirIZ60nLw=v2-s800",
+"src@3x": "",
+"width": 2847,
+"height": 2154,
+"threshold": 0.2,
+"viewType": "image-type",
+"loadTrigger": "scroll"
+}">
+
+
+
+
+
+
+
+
+A video app made just for kids.
+
+YouTube Kids is designed to be a family-friendly environment aimed at making exploration fun and simple. Kids can discover new and exciting interests while parents and caregivers have access to tools that help guide the YouTube Kids experience.
+*YouTube Kids is not available in Quebec at this time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"src@1x": "https://lh3.googleusercontent.com/UnpWGqQ3thLVpyd0wMcGaM_xlEKV4k-91goTkz_Jg6h1znJ-_-VR7z-9M3REcf92ouNSglvaQP4m0zhO_SZkMkbhGYNOrnBTyCxHBA=w1200-h900-v1-p-rj",
+"src@2x": "",
+"src@3x": "",
+"width": 600,
+"height": 450,
+"threshold": 0.2,
+"viewType": "image-type",
+"loadTrigger": "scroll"
+}">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A safer video experience for kids.
+We work hard to keep the videos on YouTube Kids family-friendly and use a mix of automated filters built by our engineering teams, human reviewers, and feedback from parents to protect our youngest users online.
+Continue exploring
+
+

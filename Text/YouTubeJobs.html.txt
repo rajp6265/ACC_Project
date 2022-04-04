@@ -1,0 +1,167 @@
+
+
+
+
+
+
+YouTube Jobs
+
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-38810586-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+
+Engineering
+
+Product and Design
+
+Business and Operations
+
+Trust and Safety
+
+How we hire
+
+
+
+
+Your application
+
+
+
+
+
+View openings
+
+
+
+
+
+Engineering Product and Design Business and Operations Trust and Safety How we hire
+
+
+Your application
+
+
+
+
+View openings
+
+
+
+
+
+Play/Pause video
+
+
+
+Create in unexpected ways.
+
+
+Shape the future of self-expression.
+
+
+Work at YouTube.
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slide-top-image--30aec46b8a8a6bf80cbce83e94837389476d39a283b73eaf20e63b70 {
+background: url(https://lh3.googleusercontent.com/IFX4vV9ClFzJzRXEwHSJDKO5UfDyAW8YXHsdwH0LbwcDcTNvB5dC6c1aABxtv55nvcWtKzpVaDjXg208QvOmikeJc8OTiBh8k2o8=s0) no-repeat;
+background-size: cover;
+}
+
+
+
+.slide-top-image--0bbdea09cb4bd44db7f83a2708d5a92f0ec366d7807bd99cf44fff19 {
+background: url(https://lh3.googleusercontent.com/jFMRqVgV1M_HgIwmsU5AtK5DH_jgVRzjgJ1WIwvfsny97IJIyGuWpPrdiMUPTCkOV49v_vvXX9RwgbDm2P5-Jdbcs3W-vzrKkiHen3U=s0) no-repeat;
+background-size: cover;
+}
+
+
+
+.slide-top-image--3b64ec42b35e2ed7e1a8ad079b0f8b1108260d3a911b50c48ef9e1b6 {
+background: url(https://lh3.googleusercontent.com/jOJH3hhzg68RdsiJx6R0PJ6nhRqa6swFhjt4KVR3YPyOzCCtNPExXA4NeFh0w-vKcHA8y_OYDoUEqwZYe7YcWqlKpYK5ovsoUQTGSw=s0) no-repeat;
+background-size: cover;
+}
+
+
+
+
+
+.slide-bottom-image--42d2c5e5982556d7386ece91e93083a3e700fbc29b28228ae5a75f64 {
+background: url(https://lh3.googleusercontent.com/2rJ-5TX1AfKw0M_4wo1wOPEZqJghVj7EFEBZ_vwJDD3q0j-J4HBEmYk3PfZ9jfgr4ctH-6Au7NEdQ6qOkf5yvNRW8YoDq3Di3x0j=s0) no-repeat;
+background-size: cover;
+}
+
+
+
+.slide-bottom-image--0f3b6127f974194f9491a847f399ad7318393ae6059bebb5baa7397a {
+background: url(https://lh3.googleusercontent.com/LR1MAV84jAzXyV-ba37ZPzDr_T6SyylBBR-O04VfNaJXyfeA6bXULiEWpO92dU2vObxxI2FDz-81HDtjg0tspFaFvcfkQdVKiZCe=s0) no-repeat;
+background-size: cover;
+}
+
+
+
+.slide-bottom-image--bf084769cc1fca84d273f5d8c6ee00a4fe53c463ace75cd6b156dc89 {
+background: url(https://lh3.googleusercontent.com/hCX-W0S_J4qEKF3oWirVnR_bDHal1CXyegnJdjfDjfVX8f1aVdtZLvuSCWygt3bthg_NUD69xXqE8B_8fp9GqBBWmAeVYF0cgjItSQ=s0) no-repeat;
+background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us make the world more informed.
+With over one billion views each day, and over 300 hours of video uploaded every minute.
+
+
+Help us make the world more connected.
+With 95% of the global internet population watching worldwide in 76 different languages.
+
+
+Help us make the world more creative.
+With over 17,000 videos filmed by creators at YouTube Spaces across the world.
+
+
+Help us make the world more entertained.
+With more 18 to 49-year-old vie
